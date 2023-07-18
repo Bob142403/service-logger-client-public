@@ -1,0 +1,17 @@
+.footer {
+  text-align: center;
+}
+.content {
+  margin: 16px 16px;
+}
+.content_div {
+  padding: 12px;
+  min-height: 360px;
+  background: rgb(20, 20, 20);
+}
+.layout {
+  min-height: 100vh;
+}
+.sider {
+  background: rgb(20, 20, 20);
+}
